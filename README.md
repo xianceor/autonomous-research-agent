@@ -119,4 +119,4 @@ Each generated report includes:
 
 This project demonstrates how autonomous AI agents can perform end-to-end research by integrating web search, knowledge retrieval, and reasoning capabilities to generate structured reports.
 
-Assignment 2 — Autonomous Research Agent
+Autonomous Research Agent
